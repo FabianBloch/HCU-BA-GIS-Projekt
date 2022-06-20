@@ -1,0 +1,28 @@
+#map {
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    background-color: steelblue;
+    color: lightblue;
+    padding: 0.5em;
+    margin: 0;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: steelblue;
+}
+
+.main {
+    background-color: aquamarine;
+}
+
+.info {
+    background-color: orange;
+}
