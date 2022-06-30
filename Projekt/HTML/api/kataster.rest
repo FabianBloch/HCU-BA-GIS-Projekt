@@ -1,0 +1,29 @@
+http://localhost:8085
+
+###
+
+http://localhost:8085/tree/100005870
+
+###
+
+http://localhost:8085/trees
+
+###
+
+POST http://localhost:8085/create
+Content-Type: application/json; charset=utf-8
+Accept: application/json
+
+{
+    "id": 1000,
+    "baum_nr": "M401-9-1000",
+    "haus_nr": "8",
+    "krone": 5,
+    "ortsteil_nr": 107,
+    "pflanzjahr": 1990,
+    "sorte_nr": 38,
+    "stamm": 50,
+    "strasse": "HCU Hamburg",
+    "longitude": 10.005,
+    "latitude": 53.04
+}
