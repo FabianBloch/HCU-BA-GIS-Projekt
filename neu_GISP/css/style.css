@@ -1,0 +1,81 @@
+#map {
+    height: 100vh;
+    margin: 0;
+}
+
+a {
+    color: white;
+  }
+
+h1 {
+    background-color: steelblue;
+    color: lightblue;
+    padding: 0.5em;
+    margin: 0;
+}
+
+h2 {
+    background-color: orange;
+    color: black;
+    padding: 0.5em;
+    margin: 0;
+}
+
+h3 {
+    background-color: orange;
+    color: black;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.navi {
+    background-color: steelblue;
+}
+
+.main {
+    background-color: aquamarine;
+}
+
+.info {
+    background-color: orange;
+}
+
+.infotext {
+    margin: 1em;
+}
+
+.titel {
+    background-color: steelblue;
+    color: white;
+    font-size: 1.25em;
+    margin: 1em;
+    font-weight: bold;
+
+}
+
+.erstelltvon {
+    background-color: steelblue;
+    color: white;
+    font-size: 1em;
+    margin: 36em 0 0 1.5em;
+}
+
+.autoren {
+    font-size: 1em;
+    margin: 0.5em 0 0 1.5em;
+}
+
+.impressum {
+    margin: 36em 0 0 1.5em;
+}
+
+.impressum a {
+    color: #378adc;
+}
+
+.impressum a.gruppe1 {
+    color: black;
+}
